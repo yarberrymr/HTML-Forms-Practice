@@ -1,0 +1,13 @@
+form {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 25px;
+}
+form textarea {
+    height: 150px;
+    font-size: 15px;
+}
+form input {
+    height: 25px;
+    font-size: 15px;
+}
